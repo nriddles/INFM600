@@ -3,9 +3,11 @@ Information Discovery & Analysis
 
 # Data set 1 – Fire Rescue Incidents 2012-Present
 This dataset lists the types of situations where rescue personnel were called.  It lists when and where the incident happened, what type of incident it was, what action was taken to resolve the issue, what resources were used, and the outcome of the incidents.  The outcomes focus on the injuries and fatalities of all parties involved in each incident.
+https://opendata.howardcountymd.gov/Public-Safety/Fire-Rescue-Incidents-2012-Present/f362-6fup#column-menu
 
 # Data set 2 – Fire and Rescue Formal Classroom Training Courses 2012-2014
 This dataset lists different courses for fire and rescue personnel.  It covers which classes were offered, who provided the course, how many people attended each class, how many hours the class was in total, and when the class was taken/provided.  
+https://opendata.howardcountymd.gov/Public-Safety/Fire-And-Rescue-Formal-Classroom-Training-Courses-/jc4q-e3ez
 
 #Combined Data
 The conclusion sheet shows how many injuries, deaths, and class participents there were for each year.
