@@ -7,6 +7,9 @@ This dataset lists the types of situations where rescue personnel were called.  
 # Data set 2 – Fire and Rescue Formal Classroom Training Courses 2012-2014
 This dataset lists different courses for fire and rescue personnel.  It covers which classes were offered, who provided the course, how many people attended each class, how many hours the class was in total, and when the class was taken/provided.  
 
+#Combined Data
+The conclusion sheet shows how many injuries, deaths, and class participents there were for each year.
+
 # Main Question
 Do the classes that emergency personnel take lessen the amount of fatalities and injuries of personnel and citizens on a year-by-year basis?
 
